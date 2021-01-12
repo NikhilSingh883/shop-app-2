@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76214187618",
+    "project_id": "shop-app-7d436",
+    "storage_bucket": "shop-app-7d436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76214187618:android:8b8bc7e883934b2d43033b",
+        "android_client_info": {
+          "package_name": "com.example.jugadu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76214187618-g8f1ldbg9d0vf8b2p254rc2g43lamof6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwYw4VfPKPyh2e9-qwfsYff5XDJFQfw64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76214187618-g8f1ldbg9d0vf8b2p254rc2g43lamof6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
