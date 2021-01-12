@@ -81,7 +81,7 @@ class _LoginWidgetState extends State<LoginWidget> {
       transform: Matrix4.translationValues(
           widget.loginXOffset, widget.loginYOffset, 1),
       decoration: BoxDecoration(
-          color: Colors.indigo[200].withOpacity(widget.loginOpacity),
+          color: Colors.pink[200].withOpacity(widget.loginOpacity),
           borderRadius: BorderRadius.only(
               topLeft: Radius.circular(25), topRight: Radius.circular(25))),
       child: GestureDetector(

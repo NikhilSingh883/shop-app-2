@@ -58,6 +58,8 @@ class DrawerScreen extends StatelessWidget {
                         child: Text(
                           Constants.myEmail,
                           style: AppTheme.title,
+                          overflow: TextOverflow.ellipsis,
+                          maxLines: 1,
                         ),
                       ),
                     ],

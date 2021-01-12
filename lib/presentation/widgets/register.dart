@@ -70,7 +70,7 @@ class _RegisterWidgetState extends State<RegisterWidget> {
       duration: Duration(milliseconds: 1000),
       transform: Matrix4.translationValues(0, widget.registerYOffset, 1),
       decoration: BoxDecoration(
-        color: Colors.deepOrange[200],
+        color: Colors.orange[100],
         borderRadius: BorderRadius.only(
           topLeft: Radius.circular(25),
           topRight: Radius.circular(25),
